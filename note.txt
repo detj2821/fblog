@@ -1,1 +1,23 @@
 to activate environment $ source env/bin/activate
+
+set environment variable
+export FLASK_APP=fblog.py
+
+install git
+apt install git
+
+firstl create git init
+then
+get config user.email
+
+git hub URL
+https://github.com/detj2821/fblog.git
+
+
+add to remote repository
+git remote add <name> <url>
+git remote add fblog https://github.com/detj2821/fblog.git
+
+to push
+git push -u fblog master
+
